@@ -1,0 +1,17 @@
+Analyze-Project
+
+Project analysis skill for structured evaluation of software or system projects.
+
+Overview
+
+Provides a systematic approach to analyzing project structure, architecture, dependencies, and execution flow. Focuses on identifying strengths, weaknesses, bottlenecks, and improvement areas within a project.
+
+Usage
+
+Used to evaluate existing projects for optimization, refactoring decisions, and architectural understanding.
+
+Files
+skill.md — Main skill content.
+License
+
+MIT License
